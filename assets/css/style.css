@@ -331,6 +331,12 @@ main {
   gap: 15px;
 }
 
+.avatar-box img {
+  width: 150px;
+  border: 2px solid;
+  border-radius: 50px;
+}
+
 .avatar-box {
   background: var(--bg-gradient-onyx);
   border-radius: 20px;
